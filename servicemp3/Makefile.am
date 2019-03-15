@@ -16,6 +16,7 @@ plugin_LTLIBRARIES = servicemp3.la
 
 servicemp3_la_SOURCES = \
 	servicemp3.cpp \
+	scriptrun.cpp \
 	servicemp3record.cpp \
 	pythonmodule.cpp
 
